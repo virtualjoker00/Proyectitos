@@ -74,3 +74,14 @@ persona1.comidaFavorita = "hamburguesa";
 persona2.comidaFavorita = "pollito";
 console.log(persona1);
 console.log(persona2);
+
+var a = 10;
+{
+    var a = -10;
+}
+let b = a;
+{
+    let b = -20;
+}
+
+console.log(b)

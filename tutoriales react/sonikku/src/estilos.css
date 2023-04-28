@@ -1,0 +1,58 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .portada {
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 20px;
+  }
+  
+  .presentacion {
+    text-align: center;
+  }
+  
+  .personajes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .personaje {
+    width: 400px;
+    border: 3px solid black;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .sonic {
+    background-color: #005cb0;
+    color: white;
+  }
+  
+  .tails {
+    background-color: #f6ab00;
+  }
+  
+  .knuckles {
+    background-color: #c41e3a;
+    color: white;
+  }
+  
+  .eggman {
+    background-color: #8c8c8c;
+  }
+  
+  .shadow {
+    background-color: #2f4f4f;
+    color: white;
+  }
+  
+  .rouge {
+    background-color: #ff69b4;
+  }
+  
