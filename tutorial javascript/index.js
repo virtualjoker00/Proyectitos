@@ -75,6 +75,7 @@ persona2.comidaFavorita = "pollito";
 console.log(persona1);
 console.log(persona2);
 
+
 var a = 10;
 {
     var a = -10;
