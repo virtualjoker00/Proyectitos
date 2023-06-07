@@ -1,0 +1,23 @@
+body {
+    background-image: url("../public/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: "Terminal", monospace;
+    color: #990000;
+  }
+  
+  h1, h2, th {
+    color: #660000;
+  }
+
+  h3, h4, td {
+        color: #330000;
+    }
+
+    .container {
+        background-color: #f1f1f1;
+        padding: 20px;
+        margin: 20px;
+        border-radius: 8px;
+      }
