@@ -1,2 +1,2 @@
 # Proyectitos
- experimentos de programacion
+ experimentos de programacion, ejercicios de tutoriales y bootcamps
